@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMubGVzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSw4RUFBOEUiLCJmaWxlIjoic3JjL3N0eWxlcy5sZXNzIn0= */", '', '']]
+module.exports = [[module.i, "body {\n  margin: 0px;\n  background-color: #DEE0DC;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9tYXR0Zm9sZXkvcnVnYnlTaXRlL3NyYy9zdHlsZXMubGVzcyIsInN0eWxlcy5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0MsV0FBQTtFQUNBLHlCQUFBO0FDQ0QiLCJmaWxlIjoic3R5bGVzLmxlc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcblx0bWFyZ2luOiAwcHg7XG5cdGJhY2tncm91bmQtY29sb3I6ICNERUUwREM7XG59XG4iLCJib2R5IHtcbiAgbWFyZ2luOiAwcHg7XG4gIGJhY2tncm91bmQtY29sb3I6ICNERUUwREM7XG59XG4iXX0= */", '', '']]
 
 /***/ }),
 
@@ -329,7 +329,7 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/mattfoley/testSite/src/styles.less */"./src/styles.less");
+module.exports = __webpack_require__(/*! /Users/mattfoley/rugbySite/src/styles.less */"./src/styles.less");
 
 
 /***/ })
